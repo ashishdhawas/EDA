@@ -1,4 +1,3 @@
-# EDA
 Abstract:
 
 The hotel industry has a very peculiar set of booking arrangements with different distribution Channels. The Space team has worked on the hotel industry dataset to get a comprehensive image of the hospitality industry. From basic data visualizations to complex multivariate analysis, we have performed data analysis at every level of the dataset to draw out key insights about the industry.
